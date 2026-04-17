@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" fill="none">
+  <!-- Diamond / V shape mark -->
+  <polygon points="18,4 30,26 6,26" fill="#42B883"/>
+  <polygon points="18,4 30,26 18,20" fill="#35495E" opacity="0.7"/>
+  <!-- Wordmark -->
+  <text x="40" y="28" font-family="'Poppins', 'Inter', sans-serif" font-weight="700" font-size="22" fill="#35495E" letter-spacing="2">VIREL</text>
+</svg>
